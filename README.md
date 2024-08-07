@@ -12,16 +12,17 @@ T-DASH標準動作では実現できないこともカスタム動作を作成�
 
 ## インストール
 使い方については、下記サイトのチュートリアルを参照ください。
+
 https://service.valtes.co.jp/t-dash/tutorial_tag/custom_action
 
 ## 貢献
 コミュニティからの貢献を歓迎します！貢献したい場合は、以下の手順に従ってください：
 
-リポジトリをフォークします。
-新しいブランチを作成します (git checkout -b feature-branch)。
-変更を行い、コミットします (git commit -m 'Add new feature')。
-ブランチにプッシュします (git push origin feature-branch)。
-プルリクエストを作成します。
+1. リポジトリをフォークします。
+2. 新しいブランチを作成します (git checkout -b feature-branch)。
+3. 変更を行い、コミットします (git commit -m 'Add new feature')。
+4. ブランチにプッシュします (git push origin feature-branch)。
+5. プルリクエストを作成します。
 
 ## 免責事項
 このプロジェクトは、いかなる種類の保証もなく「現状のまま」提供されます。著者および貢献者は、このソフトウェアの使用から生じるいかなる損害についても責任を負いません。
